@@ -21,3 +21,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     forcats
+URL: https://github.com/blagburn/foofactors
+BugReports: https://github.com/blagburn/foofactors/issues
